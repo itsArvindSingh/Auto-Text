@@ -9,7 +9,7 @@ function type(){
         charIndex++;
         setTimeout(type, 200);
     } else {
-        setTimeout(erase, 1000);
+        setTimeout(erase, 900);
     }
 }
 
