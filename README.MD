@@ -15,9 +15,9 @@ A simple JavaScript typing Animation that types and erases words one character a
 
 The animation cycles through multiple words such as:
 
-* Awesome
 * Fun
 * Cool
+* Awesome
 * Life
 * Famous
 * Weird
